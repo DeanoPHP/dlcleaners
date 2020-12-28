@@ -18,7 +18,8 @@ class PagesController extends Controller
     public function about(){
         $data = array(
             'title' => 'About Us',
-            'sub' => 'We are currently constructing this page. However, if you need to contact us this is our number 07398092318'
+            'sub' => 'We are currently constructing this page. However, if you need to contact us this is our number 07398092318',
+            'image' => 'logo.png'
         );
 
         return view('pages.about')->with($data);
