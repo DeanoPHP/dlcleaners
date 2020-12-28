@@ -9,16 +9,16 @@
             <!-- Social buttons -->
             <ul class="list-unstyled list-inline text-center">
                 <li class="list-inline-item">
-                    <a href="https://www.facebook.com/dean.dlcleaners" class="btn-floating btn-lg"><img src="/storage/cover_image/facebook.png" height="30px" width="40px"></a>
+                    <a href="https://www.facebook.com/dean.dlcleaners" class="btn-floating btn-lg"><img src="images/facebook.png" height="30px" width="40px"></a>
                 </li>
                 <li class="list-inline-item">
                 <a class="btn-floating btn-gplus mx-1">
-                    <a href="https://www.yell.com/biz/dlcleaners-bristol-9746655/" class="btn-floating btn-lg"><img src="/storage/cover_image/yell.png" height="30px" width="40px"></a>
+                    <a href="https://www.yell.com/biz/dlcleaners-bristol-9746655/" class="btn-floating btn-lg"><img src="images/yell.png" height="30px" width="40px"></a>
                 </a>
                 </li>
                 <li class="list-inline-item">
                 <a class="btn-floating btn-li mx-1">
-                    <a href="https://g.page/dean_dlcleaners" class="btn-floating btn-lg"><img src="/storage/cover_image/google-reviews.png" height="30px" width="40px"></a>
+                    <a href="https://g.page/dean_dlcleaners" class="btn-floating btn-lg"><img src="images/google-reviews.png" height="30px" width="40px"></a>
                 </a>
                 </li>
             </ul>
