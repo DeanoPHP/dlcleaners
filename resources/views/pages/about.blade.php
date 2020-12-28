@@ -33,4 +33,7 @@
 
     </div>
     <hr>
+    <h1 style="font-family: Times New Roman;font-size: 60px;text-align:center;">Why Choose DLcleaners</h1>
+
+    <p style="font-size:20px;">{{ $whyChooseDLcleaners }}</p>
 @endsection
