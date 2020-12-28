@@ -1,7 +1,8 @@
 @extends('layouts.app')
 
 @section('content')
-    <h1>Post {{$post->id}}</h1>
+    <h1>Post created by {{$post->user->name}}</h1>
+    <a href="/posts"><-- Go Back</a>
     <div class="card m-3 p-3">
         <div class="row">
             
