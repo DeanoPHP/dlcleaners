@@ -4,7 +4,7 @@
     <h1 class="mb-3">{{ $title }}</h1>
 
     <ul>
-        <li>{{ $phoneNumber }}</li>
+        <li><a href="tel:07398092318">{{ $phoneNumber }}</a></li>
         <li>{{ $email }}</li>
         <li>{{ $address }}</li>
         <li>{{ $addressLine2 }}</li>
