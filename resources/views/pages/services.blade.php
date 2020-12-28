@@ -57,7 +57,7 @@
             <h5 style="color:green;" class="mb-1">Carpet Cleaning</h5>
             <small class="text-danger">£15ph minimum 4hrs</small>
             </div>
-            <p class="mb-1">We offer a 100% satisfaction guarantee, so if your not happy we either clean the carpets for free or you get a full refund.</p>
+            <p class="mb-1">We provide a good carpet cleaning service, We use <b style="color:red;">RugDoctor</b> to clean carpets and upholstery. </p>
             <small class="text-muted">Dean Lark</small>
         </a>
         <a style="margin-bottom:40px;" href="#" class="list-group-item list-group-item-action flex-column align-items-start">
