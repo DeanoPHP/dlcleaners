@@ -21,7 +21,7 @@
 </head>
 <body >
     @include('inc.nav')
-    <div class="container" style="height:1800px">
+    <div class="container" style="min-height:1800px; margin-bottom:20px;">
         @yield('content')
     </div>
     @include('inc.footer')
