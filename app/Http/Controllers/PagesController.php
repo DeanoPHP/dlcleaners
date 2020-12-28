@@ -39,7 +39,10 @@ class PagesController extends Controller
     public function contact(){
         $data = array(
             'title' => 'Contact Us',
-            'sub' => 'We are currently constructing this page. However, if you need to contact us this is oue number 07398092318'
+            'phoneNumber' => '07398092318',
+            'email' => 'deanolark@gmail.com',
+            'address' => 'North End Road',
+            'addressLine2' => 'Yatton'
         );
 
         return view('pages.contact')->with($data);
