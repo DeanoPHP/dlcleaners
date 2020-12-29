@@ -35,6 +35,15 @@ class PagesController extends Controller
 
         return view('pages.services')->with($data);
     }
+    
+    public function prices(){
+        $data = array(
+            'title' => 'Services we provide',
+            'sub' => 'We are currently constructing this page. However, if you need to contact us this is our number 07398092318'
+        );
+
+        return view('pages.prices')->with($data);
+    }
 
     public function contact(){
         $data = array(

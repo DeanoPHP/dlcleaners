@@ -18,6 +18,7 @@ Route::get('/about', 'App\Http\Controllers\PagesController@about');
 Route::get('/services', 'App\Http\Controllers\PagesController@services');
 Route::get('/contact', 'App\Http\Controllers\PagesController@contact');
 Route::get('/gallery', 'App\Http\Controllers\PagesController@gallery');
+Route::get('/prices', 'App\Http\Controllers\PagesController@prices');
 
 Route::resource('/posts', 'App\Http\Controllers\PostsController');
 Auth::routes();
