@@ -38,8 +38,10 @@ class PagesController extends Controller
     
     public function prices(){
         $data = array(
-            'title' => 'Services we provide',
-            'sub' => 'We are currently constructing this page. However, if you need to contact us this is our number 07398092318'
+            'endOfTenancyTitle' => 'End Of Tenancy Cleaning',
+            'Content' => 'Your property will be cleaned professionally ready for you to move in',
+            'afterbuild' => 'Our after build cleaning service is tailored to the customer needs if your house has just been renovated and you would like the whole house or flat cleaned please look under the domestic cleaning prices. If you would like more information you can call me directly on 07398092318',
+            'carpetCleaning' => 'We provide a carpet cleaning service where we use RugDocter. Our minimum price is £70.'
         );
 
         return view('pages.prices')->with($data);
