@@ -84,7 +84,7 @@
         <div class="dropdown">
             <button style="width:100%;border-radius:0px;font-family:new times roman;font-size:20px;background-color:white;border:1px solid gray;color:black;border-bottom:0px;" class="btn btn-primary dropdown-toggle" id="menu1" type="button" data-toggle="dropdown">One off cleaning</button>
             <div style="padding:10px;width:100%;font-size:20px;font-family:new times roman;" class="dropdown-menu" aria-labelledby="menu1">
-                <p>Our one off clean prices start from £80</p>
+                <p>{{$oneOffCleans}}</p>
             </div>
         </div>
           
