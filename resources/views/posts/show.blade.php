@@ -7,7 +7,7 @@
         <div class="row">
             
             <div class="col-md-3">
-                <img style="width:100%;height:200px;" src="/storage/cover_image/{{$post->cover_image}}" alt="Post Image">
+                <img style="width:100%;height:200px;margin-bottom:20px;" src="/storage/cover_image/{{$post->cover_image}}" alt="Post Image">
             </div>
 
             <div class="col-md-9">
