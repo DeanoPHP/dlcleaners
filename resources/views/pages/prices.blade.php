@@ -60,7 +60,7 @@
           
         <div class="dropdown">
             <button style="width:100%;border-radius:0px;font-family:new times roman;font-size:20px;background-color:white;border:1px solid gray;color:black;border-bottom:0px;" class="btn btn-primary dropdown-toggle" id="menu1" type="button" data-toggle="dropdown">Regular Domestic Clean</button>
-            <div style="padding:10px;width:100%;margin-top:166px;" class="dropdown-menu" aria-labelledby="menu1">
+            <div style="padding:10px;width:100%;" class="dropdown-menu" aria-labelledby="menu1">
                 <ul style="list-style:none;">
                     <li><b>within 5 miles of Yatton</b></li>
                     <li>Entire place cleaned proffionaly and ready to move in</li>
