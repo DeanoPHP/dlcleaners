@@ -21,11 +21,12 @@
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
 </head>
 <body >
-    @include('inc.nav')
+    <div class="container-fluid m-0 p-0">
+        @include('inc.nav')
     <div class="container" style="min-height:1800px; margin-bottom:20px;">
         @yield('content')
+        </div>
+        @include('inc.footer')
     </div>
-    @include('inc.footer')
-
 </body>
 </html>
