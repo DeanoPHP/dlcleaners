@@ -11,17 +11,17 @@
         <div class="row">
             <div class="col-md-4">
                 <h2 style="color:#66d9ff;">Offices</h2>
-                <p>From front desk to stock cupboards, we understand how to operate in an any office environment. Our staff are fully trained to accommodate trading floors or any other high-pressure office environment. We also offer regular “deep clean” services tailored exactly to our clients’ needs.</p>
+                <p style="font-family: Times New Roman;font-size: 20px;">From front desk to stock cupboards, we understand how to operate in an any office environment. Our staff are fully trained to accommodate trading floors or any other high-pressure office environment. We also offer regular “deep clean” services tailored exactly to our clients’ needs.</p>
                 {{-- <p><a class="btn btn-default" href="contact.php" role="button">Contact Us &raquo;</a></p> --}}
             </div>
             <div class="col-md-4">
                 <h2 style="color:#66d9ff;">Domestic</h2>
-                <p>With a dedicated luxury residential team operating completely autonomous to our commercial arm, we can offer the same commitment to quality and service, tailored to accommodate the nuances of the luxury homeowner. A genuine concierge approach to residential cleaning if you like!</p>
+                <p style="font-family: Times New Roman;font-size: 20px;">With a dedicated luxury residential team operating completely autonomous to our commercial arm, we can offer the same commitment to quality and service, tailored to accommodate the nuances of the luxury homeowner. A genuine concierge approach to residential cleaning if you like!</p>
                 {{-- <p><a class="btn btn-default" href="contact.php" role="button">Contact Us &raquo;</a></p><br /> --}}
             </div>
             <div class="col-md-4">
                 <h2 style="color:#66d9ff;">Commercial</h2>
-                <p>From car showrooms to retail spaces, we’ll work with you to define the right approach to deliver your goals. We know that timing is a crucial factor when it comes to customer facing environments and we ensure the flexibility required to negate any impact in your day-to-day business.</p>
+                <p style="font-family: Times New Roman;font-size: 20px;">From car showrooms to retail spaces, we’ll work with you to define the right approach to deliver your goals. We know that timing is a crucial factor when it comes to customer facing environments and we ensure the flexibility required to negate any impact in your day-to-day business.</p>
                 {{-- <p><a class="btn btn-default" href="contact.php" role="button">Contact Us &raquo;</a></p> --}}
             </div>
         </div>
