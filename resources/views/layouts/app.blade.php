@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Domestic and commercial cleaning">
+    <meta name="description" content="Domestic and commercial cleaning company, we do end of tenancy cleaning, after build cleaning, driveway cleaning, carpet cleaning in Yatton, Clevedon, Congresbury, Portishead, Avonmouth, Shirehampton, Bristol, Gloucester, Somerset, North Somerset and serounding areas.">
     <meta name="author" content="Dean Lark">
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
