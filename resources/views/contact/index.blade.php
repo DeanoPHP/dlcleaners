@@ -30,7 +30,7 @@
                                 <textarea name="msg" class="form-control"></textarea>
                             </div>
     
-                            <input type="submit" name="submit" class="btn btn-primary float-right" value="submit">
+                            <input type="submit" class="btn btn-primary float-right" value="submit">
                         </form>
                     </div>
                 </div>
