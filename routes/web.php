@@ -20,6 +20,9 @@ Route::get('/contact', 'App\Http\Controllers\PagesController@contact');
 Route::get('/gallery', 'App\Http\Controllers\PagesController@gallery');
 Route::get('/prices', 'App\Http\Controllers\PagesController@prices');
 
+Route::get('/contact', 'App\Http\Controllers\ContactController@contact');
+Route::post('/contact', 'App\Http\Controllers\ContactController@contactSubmit')->name('contact.submit');
+
 Route::resource('/posts', 'App\Http\Controllers\PostsController');
 Auth::routes();
 
