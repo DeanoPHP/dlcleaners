@@ -9,7 +9,7 @@
                         Contact Us
                     </div>
                     <div class="card-body">
-                        <form action="{{ Route('contact.submit') }}" method="" enctype="multipart/form-data">
+                        <form action="{{ Route('contact.submit') }}" method="POST" enctype="multipart/form-data">
                             <div class="form-group">
                                 <label for="name">Name</label>
                                 <input type="text" name="name" class="form-control" required>
