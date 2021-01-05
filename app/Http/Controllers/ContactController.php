@@ -12,7 +12,7 @@ class ContactController extends Controller
 
     public function contactSubmit(request $request){
 
-        Mail::send('contact.contactmail', [
+        Mail::send('emails.contactmail', [
             'name' => $request->name,
             'email' => $request->email,
             'phone' => $request->phone,
