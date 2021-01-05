@@ -1,8 +1,9 @@
 <?php
 
 namespace App\Http\Controllers;
-use Illuminate\Support\Facades\Mail;
+
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Mail;
 
 class ContactController extends Controller
 {
@@ -19,10 +20,10 @@ class ContactController extends Controller
             'msg' => $request->msg
         ],function($mail) use($request){
             $mail->from(env('MAIL_FROM_ADDRESS'),$request->name);
-            $mail->to('deanolark@gmail.com')->subject('Message From DLcleaners Website');
+            $mail->to('deanolark@gmail.com')->subject('Contact Us Messge');            
         });
-
-        echo "<script>alert('Your message has been sent successfully and we get back to you within 24 hours')</script>";
+        
+        echo "<script>alert('Your message has been sent successfully')</script>";
         return redirect('/');
     }
 }
