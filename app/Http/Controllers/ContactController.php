@@ -23,6 +23,6 @@ class ContactController extends Controller
         });
 
         echo "<script>alert('Your message has been sent successfully and we get back to you within 24 hours')</script>";
-        return redirect('/');
+        return redirect('/contact');
     }
 }
