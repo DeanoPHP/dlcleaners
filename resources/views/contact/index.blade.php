@@ -33,6 +33,7 @@
 
                             <input type="submit" class="btn btn-primary float-right" value="submit">
                         </form>
+                        <h3 style="color:red;">Please call <a href="tel: 07398092318">07398092318</a> as form is currently not working</h3>
                     </div>
                 </div>
             </div>
