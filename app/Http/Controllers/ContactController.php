@@ -24,6 +24,6 @@ class ContactController extends Controller
         });
         
         //Need to sort out error msg 
-        return redirect('/');
+        return redirect('/')->with('status','Your message has been sent successfully and we will respond within 24 hours');
     }
 }
