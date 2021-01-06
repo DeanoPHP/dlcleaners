@@ -23,7 +23,7 @@ class ContactController extends Controller
             $mail->to('deanolark@gmail.com')->subject('Contact Us Messge');            
         });
         
-        echo "<script>alert('Your message has been sent successfully')</script>";
+        //Need to sort out error msg 
         return redirect('/');
     }
 }
